@@ -1,0 +1,51 @@
+
+.login-action-register #login {
+	width: 400px;
+}
+
+#registerform h2 {
+	border-bottom: 1px solid #ccc;
+	margin: 30px 0 15px;
+	padding-bottom: 5px;
+}
+
+#registerform .tt_tuner_profile_gender_wrapper {
+	margin-bottom : 16px;
+}
+
+#registerform select.input  {
+	height: 41px;
+}
+
+#registerform select.input option {
+	font-size: 14px !important;
+}
+
+#registerform .tt_tuner_profile_dateofbirth_day_wrapper {
+	float: left;
+	width: 24%;
+}
+
+#registerform .tt_tuner_profile_dateofbirth_month_wrapper {
+	float: left;
+	width: 42%;
+}
+
+#registerform .tt_tuner_profile_dateofbirth_year_wrapper {
+	float: left;
+	width: 34%;
+}
+
+#profile-page select {
+	width: 25em;
+}
+
+#profile-page h3 {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 5px;
+}
+
+#profile-page select#tt_tuner_profile_dateofbirth_day, #profile-page select#tt_tuner_profile_dateofbirth_month, #profile-page select#tt_tuner_profile_dateofbirth_year {
+	float : left;
+	width : 8em;
+}
